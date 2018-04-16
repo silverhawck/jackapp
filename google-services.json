@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1050564670290",
+    "firebase_url": "https://jackapp-289c0.firebaseio.com",
+    "project_id": "jackapp-289c0",
+    "storage_bucket": "jackapp-289c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050564670290:android:344f54b3ee617d05",
+        "android_client_info": {
+          "package_name": "com.jack.yourcompanion.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050564670290-8ukdlo61rkc0kd0pqhnbn5h40n34kn26.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1050564670290-2ri8csc695dt492l7r23a0mtufehi7c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jack.yourcompanion.app",
+            "certificate_hash": "411d4ad12d67b1e46c6b8b20e9d97c901d50a4bf"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_1JVqLdYo5wOSlD_PctiQjuLyNx4GmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050564670290-8ukdlo61rkc0kd0pqhnbn5h40n34kn26.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050564670290-05ggoia0qgrvsrjle8vamk0dtf6e58q8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jack.yourcompanion.app"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
